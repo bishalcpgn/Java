@@ -27,7 +27,7 @@ class MultidimensionalArray{
 
     System.out.println("\n Printing same values using advanced for loop : ");
 
-    for ( int[] data : matrix){ // returns an array 
+    for ( int[] data : matrix){ // single array is returned by matrix 
         for (int innerData : data){
             System.out.print(innerData + " ");
 

@@ -1,6 +1,6 @@
 /*
 
-    Check Constructor.java file for notes. 
+    Check Constructors.java file for notes. 
 
     Syntax of parameterized constuctor :
 

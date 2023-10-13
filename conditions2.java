@@ -1,8 +1,10 @@
 /* 
 
-To print equivalent day of a number 
+This is the new version of Switch Statement introduced in Java 12.
 
-This is the new version of switch case.
+We can also return values by executing some expressions.
+
+So, to print equivalent day of a number : 
 
 */
 
@@ -26,9 +28,4 @@ class conditions2{
     }
 }
 
-/* 
 
-This is the new version of Switch Statement introduced in Java 12.
-We can also return values by executing some expressions.
-
-*/

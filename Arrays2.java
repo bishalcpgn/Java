@@ -14,7 +14,7 @@ With the use of advanced for loop we don't need to know the size of an array in 
 */
 
 
-class MultidimensionalArray{    
+class Arrays2{    
     public static void main(String[] args){
     int[][] matrix = new int[2][3];
     for(int i=0; i<2; i++){

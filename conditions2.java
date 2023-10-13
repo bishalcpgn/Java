@@ -1,7 +1,13 @@
-// To print equivalent day of a number 
+/* 
+
+To print equivalent day of a number 
+
+This is the new version of switch case.
+
+*/
 
 
-class condition{
+class conditions2{
     public static void main(String[] args){   
              
         int num = 3;

@@ -34,7 +34,7 @@ class Calc {
     }
 }
 
-class Constructor1 {
+class Constructor2 {
     public static void main(String[] args) {
         
         Calc c1 = new Calc(5, 10); // invokes constructor 

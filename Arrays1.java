@@ -24,7 +24,7 @@ Notes :
 
 */
 
-public class Arrays{
+public class Arrays1{
     public static void main(String[] args){
         
         int[] numbers = { 1, 2, 3, 4, 5 }; // Declare and initialize an integer array

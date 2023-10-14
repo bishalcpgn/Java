@@ -53,12 +53,12 @@ Inner Class ( Non-static Nested class )
 */
 
 
-class Calculator {
+class Calculator {                  // Outer class 
 
     private int a = 1 ;
     private int b = 5 ;
 
-    public class Sum {
+    public class Sum {               // Inner class 
 
         void show() {
 
@@ -72,9 +72,9 @@ public class NestedClass1 {
 
     public static void main(String[] args) {
 
-        Calculator Cal = new Calculator();
+        Calculator Cal = new Calculator();      // Creating object of outer class
 
-        Calculator.Sum s1 = Cal.new Sum();
+        Calculator.Sum s1 = Cal.new Sum();     // creating object of inner class 
 
         s1.show();
 

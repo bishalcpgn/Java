@@ -33,6 +33,8 @@ Syntax :
 
         // define methods here 
 
+        // Methods must be public
+
     }
 
 

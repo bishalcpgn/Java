@@ -1,6 +1,6 @@
 /* 
 
-    Check inheritance.java file for notes. 
+    Refer Inheritance1.java file for notes. 
     
      
     Syntax for Multilevel Inheritance :  

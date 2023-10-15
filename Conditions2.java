@@ -9,7 +9,7 @@ So, to print equivalent day of a number :
 */
 
 
-class conditions2{
+class onditions2{
     public static void main(String[] args){   
              
         int num = 3;

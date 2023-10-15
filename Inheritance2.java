@@ -3,7 +3,7 @@
     Check inheritance.java file for notes. 
     
      
-    Syntax for Multilevel Inheritance : 
+    Syntax for Multilevel Inheritance :  
 
 
         class SuperClass {  

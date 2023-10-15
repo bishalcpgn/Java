@@ -1,6 +1,6 @@
 // To find greatest number using IF ELSE IF in java 
  
-public class conditions1{
+public class Conditions1{
     public static void main(String[] args){
         float num1 = 1.0f; // float num1 = (float) 1.0;        
         float num2 = 2.2f;

@@ -56,7 +56,7 @@ class AdvancedAdvanceCalculator extends AdvanceCalculator {        // Second Chi
 
 
 
-class inheritance2 {
+class Inheritance2 {
     public static void main(String[] args) {
 
         AdvancedAdvanceCalculator c1 = new AdvancedAdvanceCalculator();

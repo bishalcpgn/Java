@@ -45,7 +45,7 @@ class AdvanceCalculator extends Calculator {
 }
 
 
-class inheritance1 {
+class Inheritance1 {
     public static void main(String[] args) {
 
         AdvanceCalculator c1 = new AdvanceCalculator();

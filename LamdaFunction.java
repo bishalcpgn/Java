@@ -37,6 +37,8 @@ class LamdaFunction {
                 public void sum(a,b) {                   
 
                     System.print.ln("The sum is "+ (a+b));
+
+                     cal.sum(5,6);
                     
                 }
 

@@ -5,13 +5,15 @@ Inheritance :
 
     2. The `extends` keyword is used for inheritance in Java. 
 
-    3. Private members and constructor can't be inherited.
+    3. Every class implicitly extends the `java.lang.Object` class by default (except child class).
 
-    4. Use `extends` keyword for class to class and interface to interface inheritance.
+    4 . Private members and constructor can't be inherited.
 
-    5. Use `implement` keyword for interface to class inheritance. 
+    5. Use `extends` keyword for class to class and interface to interface inheritance.
 
-    4. Types of inheritance :
+    6. Use `implement` keyword for interface to class inheritance. 
+
+    7. Types of inheritance :
         a. Single Inheritance          ->     a class is derived from only one super/parent class
         d. Multilevel Inheritance      ->     a subclass is derived from another subclass forming a chain like structure 
         c. Multiple Inheritance        ->     a interface can be derived from multiple interfaces, Java does not support multiple inheritances with classes. 

@@ -62,6 +62,7 @@
         class <ClassName> implements <InterfaceName1>, <InterfaceName3> {
            
             // Override Methods here 
+            // Methods must be declared as public
            
         }
 

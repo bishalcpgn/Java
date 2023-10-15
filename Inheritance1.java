@@ -7,6 +7,10 @@ Inheritance :
 
     3. Private members and constructor can't be inherited.
 
+    4. Use `extends` keyword for class to class and interface to interface inheritance.
+
+    5. Use `implement` keyword for interface to class inheritance. 
+
     4. Types of inheritance :
         a. Single Inheritance          ->     a class is derived from only one super/parent class
         d. Multilevel Inheritance      ->     a subclass is derived from another subclass forming a chain like structure 

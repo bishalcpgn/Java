@@ -74,7 +74,7 @@ Syntax for ArrayList :
 
 import java.util.ArrayList;
 
-class CollectionAPI1 {
+class DataStructure1 {
 
     public static void main(String[] args) {
 
